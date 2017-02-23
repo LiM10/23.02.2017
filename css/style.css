@@ -1,0 +1,168 @@
+@keyframes bir{
+	
+	from{
+		top: 0;
+	}
+	
+	to{
+		top: 660px;
+		left: 58px;
+	}
+}
+@keyframes iki{
+	
+	from{
+		top: 0;
+	}
+	
+	to{
+		top: 660px;
+		left: 3px;
+	}
+}
+@keyframes uc{
+	
+	from{
+		top: 0;
+	}
+	
+	to{
+		top: 660px;
+		left: 75px;
+	}
+}
+@keyframes dord{
+	
+	from{
+		top: 0;
+	}
+	
+	to{
+		top: 660px;
+		left: 38px;
+	}
+}
+@keyframes bes{
+	
+	from{
+		top: 0;
+	}
+	
+	to{
+		top: 660px;
+		left: 42px;
+	}
+}
+@keyframes alti{
+	
+	from{
+		top: 0;
+	}
+	
+	to{
+		top: 660px;
+		left: 4px;
+	}
+}
+@keyframes yeddi{
+	
+	from{
+		top: 0;
+	}
+	
+	to{
+		top: 660px;
+		left: 29px;
+	}
+}
+@keyframes sekkiz{
+	
+	from{
+		top: 0;
+	}
+	
+	to{
+		top: 660px;
+		left: 17px;
+	}
+}
+@keyframes doqquz{
+	
+	from{
+		top: 0;
+	}
+	
+	to{
+		top: 660px;
+		left: 18px;
+	}
+}
+@keyframes on{
+	
+	from{
+		top: 0;
+	}
+	
+	to{
+		top: 660px;
+		left: 47px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+	background-image: url(../images/img.jpeg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+div{
+	display: inline;
+}
+div i{
+	position: relative;
+	color: #fff;
+	opacity: .4;
+}
+
+.tint1{
+	animation: bir 1.9s ease infinite;
+}
+.tint2{
+	animation: iki  2.6s ease infinite;
+}
+.tint3{
+	animation: uc 2.2s ease infinite;
+}
+.tint4{
+	animation: dord  1.5s ease infinite;
+}
+.tint5{
+	animation: bes 2s ease infinite;
+}
+.tint6{
+	animation: alti 1.8s ease infinite;
+}
+.tint7{
+	animation: yeddi 2.75s ease infinite;
+}
+.tint8{
+	animation: sekkiz  2.5s ease infinite;
+}
+.tint9{
+	animation: doqquz 1.8s ease infinite;
+}
+.tint10{
+	animation: on 1.7s ease infinite;
+}
